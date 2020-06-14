@@ -1,1 +1,12 @@
 https://www.youtube.com/watch?v=pt3uB0sd5kY (IntelliJ IDEA)
+
+https://maven.apache.org/download.cgi (stažení mavenu)
+    - binary zip archive
+    - extrahovat
+    - nastavit v IntelliJ cesty
+        - Settings --> Maven
+            - Maven home directory: extrahovaná složka
+            - User settings file: extrahovaná složka --> conf --> settings.xml
+            - Local repository: extrahovaná složka --> repo (vytvořit tuto složku)
+        - Apply --> Import changes
+        - clean install
