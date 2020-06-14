@@ -1,0 +1,5 @@
+https://projectlombok.org/setup/maven (projekt)
+
+https://www.youtube.com/watch?v=WfyDLiOQmTo (plugin + dependency)
+
+Nepotřebuju getters a setters.
